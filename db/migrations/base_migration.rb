@@ -1,0 +1,13 @@
+class BaseMigration
+  def up
+    <<-SQL
+
+    SQL
+  end
+
+  def down
+    <<-SQL
+
+    SQL
+  end
+end
